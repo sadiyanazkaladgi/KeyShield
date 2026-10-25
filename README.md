@@ -53,11 +53,4 @@ KeyShield is a Python cybersecurity mini-project that demonstrates secure messag
 ## Project Objective
 
 KeyShield demonstrates practical applications of cryptography and network security using Python.
-
-## Contributions
-
-Suggestions and improvements are welcome. You can open an issue or submit a pull request.
-
-## License
-
-License information will be added soon.
+information will be added soon.
